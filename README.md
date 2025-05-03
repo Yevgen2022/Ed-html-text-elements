@@ -3,7 +3,7 @@
 A semantic HTML project focused on enriching a static document with meaningful and accessible HTML elements. The task includes replacing non-semantic tags with appropriate headings, lists, time, quote, abbreviation, and formatting tags, while preserving the document structure.
 
 ## Live Demo
- [Click here to view](https://html-text-elements-b877e4.gitlab.io)
+ [Click here to view](https://yevgen2022.github.io/Ed-html-text-elements/)
 
 ## Key Concepts Applied
 
